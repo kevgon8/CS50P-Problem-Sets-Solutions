@@ -1,6 +1,6 @@
 # CS50P Problem Sets Solutions
 
-This repository contains my solutions to the eight problem sets from Harvard's CS50P: Introduction to Programming with Python course. Each problem set is designed to reinforce key concepts in Python programming, including functions, loops, conditionals, data structures, and more.
+This repository contains my solutions to the nine problem sets from Harvard's CS50P: Introduction to Programming with Python course. Each problem set is designed to reinforce key concepts in Python programming, including functions, loops, conditionals, data structures, and more.
 
 ## Problem Sets
 
