@@ -150,10 +150,9 @@ cs50p-problem-sets-solutions/
 Kevin Gonsalves
 
 **Please be sure to check out my other repositories too!**
-- [Instagram Followers Analyzer](https://github.com/kevgon8/Instagram-Follower-Analyzer) - Analyzes Instagram followers data.
-- [To-Do List Application](https://github.com/kevgon8/To-Do-List-App) - Add, view, and manage tasks
-- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System) - User registration, login, and logout functionalities, with password management using SHA-256 hashing.
-
+- [Instagram Followers Analyzer](https://github.com/kevgon8/Instagram-Follower-Analyzer)
+- [To-Do List Application](https://github.com/kevgon8/To-Do-List-App)
+- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System)
 
 ## Acknowledgments
 This project is part of the CS50P course offered by Harvard University. Special thanks to the course instructor, David J. Malan, and the CS50 team for providing such a comprehensive and engaging curriculum.
