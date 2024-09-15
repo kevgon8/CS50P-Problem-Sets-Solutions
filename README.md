@@ -1,6 +1,6 @@
 # CS50P Problem Sets Solutions
 
-This repository contains my solutions to the nine problem sets from Harvard's CS50P: Introduction to Programming with Python course. Each problem set is designed to reinforce key concepts in Python programming, including functions, loops, conditionals, data structures, and more.
+This repository contains my solutions to the nine problem sets from Harvard's CS50P: Introduction to Programming with Python course.
 
 ## Table of contents
 - [Problem Sets](#problem-sets)
@@ -53,7 +53,94 @@ cd cs50p-problem-sets-solutions
 ```bash
 cs50p-problem-sets-solutions/
 ├── CS50p
-│   └── problem set solutions...   
+│   ├── adieu
+│   │   └── adieu.py
+│   ├── bank
+│   │   └── bank.py
+│   ├── bitcoin
+│   │   └── bitcoin.py
+│   ├── camel
+│   │   └── camel.py
+│   ├── coke
+│   │   └── coke.py
+│   ├── deep
+│   │   └── deep.py
+│   ├── einstein
+│   │   └── einstein.py
+│   ├── emojize
+│   │   └── emojize.py
+│   ├── extensions
+│   │   └── extensions.py
+│   ├── faces
+│   │   └── faces.py
+│   ├── figlet
+│   │   └── figlet.py
+│   ├── fuel
+│   │   └── fuel.py
+│   ├── game
+│   │   └── game.py
+│   ├── grocery
+│   │   └── grocery.py
+│   ├── indoor
+│   │   └── indoor.py
+│   ├── interpreter
+│   │   └── interpreter.py
+│   ├── jar
+│   │   ├── jar.py
+│   │   └── test_jar.py
+│   ├── lines
+│   │   ├── dummy_for_lines.py
+│   │   └── lines.py
+│   ├── meal
+│   │   └── meal.py
+│   ├── numb3rs
+│   │   ├── numb3rs.py
+│   │   └── test_numb3rs.py
+│   ├── nutrition
+│   │   └── nutrition.py
+│   ├── outdated
+│   │   └── outdated.py
+│   ├── pizza
+│   │   └── pizza.py
+│   ├── plates
+│   │   └── plates.py
+│   ├── playback
+│   │   └── playback.py
+│   ├── professor
+│   │   └── professor.py
+│   ├── response
+│   │   └── response.py
+│   ├── scourgify
+│   │   └── scourgify.py
+│   ├── seasons
+│   │   ├── seasons.py
+│   │   └── test_seasons.py
+│   ├── shirt
+│   │   └── shirt.py
+│   ├── shirtificate
+│   │   └── shirtificate.py
+│   ├── taqueria
+│   │   └── taqueria.py
+│   ├── test_bank
+│   │   └── test_bank.py
+│   ├── test_fuel
+│   │   └── test_fuel.py
+│   ├── test_plates
+│   │   └── test_plates.py
+│   ├── test_twttr
+│   │   └── test_twttr.py
+│   ├── tip
+│   │   └── tip.py
+│   ├── twttr
+│   │   └── twttr.py
+│   ├── um
+│   │   ├── test_um.py
+│   │   └── um.py
+│   ├── watch
+│   │   └── watch.py
+│   └── working
+│       ├── test_working.py
+│       └── working.py
 └── README.md
 ```
 
