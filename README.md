@@ -2,6 +2,12 @@
 
 This repository contains my solutions to the nine problem sets from Harvard's CS50P: Introduction to Programming with Python course. Each problem set is designed to reinforce key concepts in Python programming, including functions, loops, conditionals, data structures, and more.
 
+## Table of contents
+- [Problem Sets](#problem-sets)
+- [How to Use](#how-to-use)
+- [File Structure](#file-structure)
+- [Acknowledgements](acknowledgements)
+
 ## Problem Sets
 
 1. [**Problem Set 0**](https://cs50.harvard.edu/python/2022/psets/0/):
@@ -42,5 +48,14 @@ Clone the repository and navigate to the directory of the problem set you're int
 git clone https://github.com/kevgon8/cs50p-problem-sets-solutions.git
 cd cs50p-problem-sets-solutions
 ```
+
+## File Structure
+```bash
+cs50p-problem-sets-solutions/
+├── CS50p
+│   └── problem set solutions...   
+└── README.md
+```
+
 ## Acknowledgments
 This project is part of the CS50P course offered by Harvard University. Special thanks to the course instructor, David J. Malan, and the CS50 team for providing such a comprehensive and engaging curriculum.
