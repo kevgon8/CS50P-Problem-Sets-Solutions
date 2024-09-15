@@ -6,6 +6,7 @@ This repository contains my solutions to the nine problem sets from Harvard's CS
 - [Problem Sets](#problem-sets)
 - [How to Use](#how-to-use)
 - [File Structure](#file-structure)
+- [Author](#author)
 - [Acknowledgements](acknowledgements)
 
 ## Problem Sets
@@ -143,6 +144,16 @@ cs50p-problem-sets-solutions/
 │       └── working.py
 └── README.md
 ```
+
+## Author
+
+Kevin Gonsalves
+
+**Please be sure to check out my other repositories too!**
+- [Instagram Followers Analyzer](https://github.com/kevgon8/Instagram-Follower-Analyzer) - Analyzes Instagram followers data.
+- [To-Do List Application](https://github.com/kevgon8/To-Do-List-App) - Add, view, and manage tasks
+- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System) - User registration, login, and logout functionalities, with password management using SHA-256 hashing.
+
 
 ## Acknowledgments
 This project is part of the CS50P course offered by Harvard University. Special thanks to the course instructor, David J. Malan, and the CS50 team for providing such a comprehensive and engaging curriculum.
